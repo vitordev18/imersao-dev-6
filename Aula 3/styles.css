@@ -1,0 +1,78 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  background-image: url('https://wallpapers.com/images/hd/3d-red-and-black-polygon-w0xm5hsgnjeajcnr.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px 0 0;
+}
+
+.content-container {
+  margin: auto;
+  padding: 0 100px;
+  display: flex;
+  flex: wrap;
+}
+
+/* display flex permite mais flexibilidade para estilizar as caixas*/
+/* tamanho da imagem limitado, pra ficar alinhado*/
+.livros-container {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+
+  float: left;
+  flex-direction: column;
+  width: min-content;
+  height: 340px;
+  margin: 12px;
+  color: white;
+}
+
+img {
+  max-width: 160px;
+  max-height: 240px;
+  border-radius: 4px;
+  margin: 8px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+.container2 {
+  font-family: 'Roboto Mono', monospace;
+  color: white;
+  text-align: center;
+}
