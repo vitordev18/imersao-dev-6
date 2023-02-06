@@ -20,8 +20,6 @@ body {
   flex: wrap;
 }
 
-/* display flex permite mais flexibilidade para estilizar as caixas*/
-/* tamanho da imagem limitado, pra ficar alinhado*/
 .livros-container {
   display: flex;
   align-items: center;
