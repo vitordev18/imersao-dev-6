@@ -6,7 +6,7 @@ Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura com intuito
 
 <p align="center">
   <a href="#-tecnologias">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
